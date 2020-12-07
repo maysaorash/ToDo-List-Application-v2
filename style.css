@@ -1,0 +1,13 @@
+.todo-item, 
+.edit-item, 
+.remove-item {
+  cursor: pointer; 
+}
+
+.edit-item {
+  color: blue;
+}
+
+.remove-item {
+  color: red;
+}
